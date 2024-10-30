@@ -101,3 +101,22 @@ const data = {
 }
 loadTables(data);
 //export { loadTables }
+
+
+
+import markdownit from 'markdown-it';
+
+console.log('loaded renderMd.js');
+const rr = document.getElementById('renderResult');
+console.log(rr);
+rr.addEventListener('click', (evt) => {
+    evt.preventDefault();
+    const markdown = document.getElementById('result').innerText;
+    const md = markdownit();
+    const output = md.render(markdown);
+    document.getElementById('output').innerHTML = output;
+});
+document.getElementById('clearResult').addEventListener('click', (evt) => {
+    evt.preventDefault();
+    document.getElementById('output').innerHTML = '';
+});
