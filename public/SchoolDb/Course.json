@@ -1,0 +1,142 @@
+[
+  {
+    "CourseId": "DMIT101",
+    "CourseName": "Communications in IT and New Media",
+    "CourseHours": 64,
+    "MaxStudents": 4,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT103",
+    "CourseName": "Applied Problem Solving",
+    "CourseHours": 96,
+    "MaxStudents": 3,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT104",
+    "CourseName": "Programming Fundamentals",
+    "CourseHours": 96,
+    "MaxStudents": 5,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT108",
+    "CourseName": "Web Design 1",
+    "CourseHours": 64,
+    "MaxStudents": 4,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT115",
+    "CourseName": "Visual SQL",
+    "CourseHours": 60,
+    "MaxStudents": 12,
+    "CourseCost": 500.00
+  },
+  {
+    "CourseId": "DMIT152",
+    "CourseName": "Advanced Programming (.net 1)",
+    "CourseHours": 96,
+    "MaxStudents": 5,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT163",
+    "CourseName": "Game Programming 1",
+    "CourseHours": 96,
+    "MaxStudents": 4,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT168",
+    "CourseName": "Math & Physics",
+    "CourseHours": 80,
+    "MaxStudents": 5,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT170",
+    "CourseName": "Networking 1",
+    "CourseHours": 64,
+    "MaxStudents": 4,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT172",
+    "CourseName": "Systems Analysis & Design 1",
+    "CourseHours": 96,
+    "MaxStudents": 5,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT175",
+    "CourseName": "Database Programming",
+    "CourseHours": 60,
+    "MaxStudents": 12,
+    "CourseCost": 500.00
+  },
+  {
+    "CourseId": "DMIT215",
+    "CourseName": "Database Administration",
+    "CourseHours": 60,
+    "MaxStudents": 12,
+    "CourseCost": 500.00
+  },
+  {
+    "CourseId": "DMIT221",
+    "CourseName": "Open Source Programming (J2EE)",
+    "CourseHours": 96,
+    "MaxStudents": 4,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT223",
+    "CourseName": "Quality Assurance",
+    "CourseHours": 64,
+    "MaxStudents": 4,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT224",
+    "CourseName": "Server Administration & Applications",
+    "CourseHours": 64,
+    "MaxStudents": 5,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT225",
+    "CourseName": "Systems Analysis & Design 2",
+    "CourseHours": 96,
+    "MaxStudents": 3,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT227",
+    "CourseName": "Web Server Administration (IIS, Apache)",
+    "CourseHours": 64,
+    "MaxStudents": 5,
+    "CourseCost": 450.00
+  },
+  {
+    "CourseId": "DMIT228",
+    "CourseName": "Advanced Application Development",
+    "CourseHours": 60,
+    "MaxStudents": 12,
+    "CourseCost": 500.00
+  },
+  {
+    "CourseId": "DMIT254",
+    "CourseName": "Capstone Project",
+    "CourseHours": 192,
+    "MaxStudents": 5,
+    "CourseCost": 1575.00
+  },
+  {
+    "CourseId": "DMIT259",
+    "CourseName": "DMIT259 Project Management",
+    "CourseHours": 64,
+    "MaxStudents": 2,
+    "CourseCost": 450.00
+  }
+]

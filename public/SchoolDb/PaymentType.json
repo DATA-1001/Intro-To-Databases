@@ -1,0 +1,26 @@
+[
+  {
+    "PaymentTypeID": 1,
+    "PaymentTypeDescription": "Cash"
+  },
+  {
+    "PaymentTypeID": 2,
+    "PaymentTypeDescription": "Cheque"
+  },
+  {
+    "PaymentTypeID": 3,
+    "PaymentTypeDescription": "VISA"
+  },
+  {
+    "PaymentTypeID": 4,
+    "PaymentTypeDescription": "MasterCard"
+  },
+  {
+    "PaymentTypeID": 5,
+    "PaymentTypeDescription": "American Express"
+  },
+  {
+    "PaymentTypeID": 6,
+    "PaymentTypeDescription": "Debit Card"
+  }
+]

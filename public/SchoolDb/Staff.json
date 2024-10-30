@@ -1,0 +1,92 @@
+[
+  {
+    "StaffID": 1,
+    "FirstName": "Donna",
+    "LastName": "Bookem",
+    "DateHired": "1988-04-17T00:00:00",
+    "DateReleased": null,
+    "PositionID": 5,
+    "LoginID": null
+  },
+  {
+    "StaffID": 2,
+    "FirstName": "Robert",
+    "LastName": "Smith",
+    "DateHired": "1990-06-12T00:00:00",
+    "DateReleased": null,
+    "PositionID": 3,
+    "LoginID": null
+  },
+  {
+    "StaffID": 3,
+    "FirstName": "Tess",
+    "LastName": "Agonor",
+    "DateHired": "1992-04-25T00:00:00",
+    "DateReleased": "1996-05-22T00:00:00",
+    "PositionID": 4,
+    "LoginID": null
+  },
+  {
+    "StaffID": 4,
+    "FirstName": "Nolan",
+    "LastName": "Itall",
+    "DateHired": "1993-08-12T00:00:00",
+    "DateReleased": null,
+    "PositionID": 4,
+    "LoginID": null
+  },
+  {
+    "StaffID": 5,
+    "FirstName": "Jerry",
+    "LastName": "Kan",
+    "DateHired": "1995-08-15T00:00:00",
+    "DateReleased": null,
+    "PositionID": 4,
+    "LoginID": null
+  },
+  {
+    "StaffID": 6,
+    "FirstName": "Sia",
+    "LastName": "Latter",
+    "DateHired": "1996-10-30T00:00:00",
+    "DateReleased": null,
+    "PositionID": 4,
+    "LoginID": null
+  },
+  {
+    "StaffID": 7,
+    "FirstName": "Hugh",
+    "LastName": "Guy",
+    "DateHired": "1998-10-10T00:00:00",
+    "DateReleased": null,
+    "PositionID": 1,
+    "LoginID": null
+  },
+  {
+    "StaffID": 8,
+    "FirstName": "Cher",
+    "LastName": "Power",
+    "DateHired": "2000-05-30T00:00:00",
+    "DateReleased": null,
+    "PositionID": 3,
+    "LoginID": null
+  },
+  {
+    "StaffID": 9,
+    "FirstName": "Nic",
+    "LastName": "Bustamante",
+    "DateHired": "2007-06-15T00:00:00",
+    "DateReleased": null,
+    "PositionID": 2,
+    "LoginID": null
+  },
+  {
+    "StaffID": 10,
+    "FirstName": "Chip",
+    "LastName": "Andale",
+    "DateHired": "2007-07-14T00:00:00",
+    "DateReleased": null,
+    "PositionID": 6,
+    "LoginID": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "StudentID": 199899200,
+    "ClubId": "CSS"
+  },
+  {
+    "StudentID": 199912010,
+    "ClubId": "ACM"
+  },
+  {
+    "StudentID": 199912010,
+    "ClubId": "CSS"
+  },
+  {
+    "StudentID": 199912010,
+    "ClubId": "NASA"
+  },
+  {
+    "StudentID": 200312345,
+    "ClubId": "CSS"
+  },
+  {
+    "StudentID": 200322620,
+    "ClubId": "ACM"
+  },
+  {
+    "StudentID": 200322620,
+    "ClubId": "CSS"
+  },
+  {
+    "StudentID": 200495500,
+    "ClubId": "ACM"
+  },
+  {
+    "StudentID": 200495500,
+    "ClubId": "CHESS"
+  },
+  {
+    "StudentID": 200495500,
+    "ClubId": "CSS"
+  }
+]

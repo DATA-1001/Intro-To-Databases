@@ -1,0 +1,30 @@
+[
+  {
+    "PositionID": 1,
+    "PositionDescription": "Dean"
+  },
+  {
+    "PositionID": 2,
+    "PositionDescription": "Program Chair"
+  },
+  {
+    "PositionID": 3,
+    "PositionDescription": "Assistant Program Chair"
+  },
+  {
+    "PositionID": 4,
+    "PositionDescription": "Instructor"
+  },
+  {
+    "PositionID": 5,
+    "PositionDescription": "Office Administrator"
+  },
+  {
+    "PositionID": 6,
+    "PositionDescription": "Technical Support Staff"
+  },
+  {
+    "PositionID": 7,
+    "PositionDescription": "Assistant Dean"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ClubId": "ACM",
+    "ClubName": "Association of Computing Machinery"
+  },
+  {
+    "ClubId": "CHESS",
+    "ClubName": "NAIT Chess Club"
+  },
+  {
+    "ClubId": "CIPS",
+    "ClubName": "Computer Info Processing Society"
+  },
+  {
+    "ClubId": "CSS",
+    "ClubName": "Computer System Society"
+  },
+  {
+    "ClubId": "DBTG",
+    "ClubName": "DataBase Task Group"
+  },
+  {
+    "ClubId": "NAITSA",
+    "ClubName": "NAIT Student Association"
+  },
+  {
+    "ClubId": "NASA",
+    "ClubName": "NAIT Staff Association"
+  },
+  {
+    "ClubId": "NASA1",
+    "ClubName": "NAIT Support Staff Association"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT152",
+    "Semester": "2004J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT168",
+    "Semester": "2004J",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT170",
+    "Semester": "2004J",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT172",
+    "Semester": "2000S",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT221",
+    "Semester": "2004S",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT223",
+    "Semester": "2004S",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT224",
+    "Semester": "2005J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT227",
+    "Semester": "2005J",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199899200,
+    "CourseId": "DMIT254",
+    "Semester": "2005M",
+    "Mark": 0.00,
+    "WithdrawYN": "Y",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT101",
+    "Semester": "2000S",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT103",
+    "Semester": "2000S",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT104",
+    "Semester": "2000S",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT108",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT152",
+    "Semester": "2001J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT163",
+    "Semester": "2001J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT168",
+    "Semester": "2001J",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT170",
+    "Semester": "2001J",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT172",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT221",
+    "Semester": "2001S",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT223",
+    "Semester": "2001S",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT224",
+    "Semester": "2002J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT225",
+    "Semester": "2001J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT227",
+    "Semester": "2002J",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 199912010,
+    "CourseId": "DMIT254",
+    "Semester": "2005M",
+    "Mark": 0.00,
+    "WithdrawYN": "Y",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT152",
+    "Semester": "2002S",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT168",
+    "Semester": "2002S",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT170",
+    "Semester": "2003J",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT221",
+    "Semester": "2003M",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT223",
+    "Semester": "2003J",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT224",
+    "Semester": "2003S",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT227",
+    "Semester": "2003S",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200122100,
+    "CourseId": "DMIT254",
+    "Semester": "2005M",
+    "Mark": 0.00,
+    "WithdrawYN": "Y",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT104",
+    "Semester": "2002S",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT152",
+    "Semester": "2003J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT168",
+    "Semester": "2003M",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT221",
+    "Semester": "2003S",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT224",
+    "Semester": "2004J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT227",
+    "Semester": "2004M",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT254",
+    "Semester": "2005M",
+    "Mark": 0.00,
+    "WithdrawYN": "Y",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200312345,
+    "CourseId": "DMIT259",
+    "Semester": "2004M",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT101",
+    "Semester": "2000S",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT103",
+    "Semester": "2000S",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT104",
+    "Semester": "2000S",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT108",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT152",
+    "Semester": "2001J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT163",
+    "Semester": "2001J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT168",
+    "Semester": "2001J",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT170",
+    "Semester": "2001J",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT172",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT223",
+    "Semester": "2001S",
+    "Mark": 78.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT224",
+    "Semester": "2002J",
+    "Mark": 89.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT225",
+    "Semester": "2001J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200494470,
+    "CourseId": "DMIT227",
+    "Semester": "2002J",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT101",
+    "Semester": "2000S",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT103",
+    "Semester": "2000S",
+    "Mark": 80.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT104",
+    "Semester": "2000S",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT108",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT163",
+    "Semester": "2001J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT172",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200495500,
+    "CourseId": "DMIT225",
+    "Semester": "2001J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT101",
+    "Semester": "2000S",
+    "Mark": 85.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT104",
+    "Semester": "2000S",
+    "Mark": 83.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT108",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT163",
+    "Semester": "2004J",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT172",
+    "Semester": "2000S",
+    "Mark": 98.00,
+    "WithdrawYN": "N",
+    "StaffID": 5
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT254",
+    "Semester": "2005M",
+    "Mark": 0.00,
+    "WithdrawYN": "Y",
+    "StaffID": 6
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT259",
+    "Semester": "2004M",
+    "Mark": 30.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200578400,
+    "CourseId": "DMIT259",
+    "Semester": "2004S",
+    "Mark": 88.00,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200645320,
+    "CourseId": "DMIT152",
+    "Semester": "2005S",
+    "Mark": null,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  },
+  {
+    "StudentID": 200688700,
+    "CourseId": "DMIT152",
+    "Semester": "2005S",
+    "Mark": null,
+    "WithdrawYN": "N",
+    "StaffID": 4
+  }
+]
