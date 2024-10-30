@@ -1,4 +1,4 @@
-console.log('loaded');
+console.log('loaded client script');
 const upTreeTo = (tagName, ofElement) => {
     let found = undefined;
     let parent = ofElement;
@@ -17,7 +17,7 @@ const toggleStyle = (el, styleName, value) => {
 }
 const handleTableClick = (evt) => {
     const target = evt.target;
-    console.log(target);
+    // console.log(target);
     if(target.tagName === 'TH') {
         toggleStyle(target, 'textDecoration', 'underline');
         let table = upTreeTo('TABLE', target);
@@ -38,7 +38,7 @@ const handleTableClick = (evt) => {
 const handleJsonData = function(tableData) {
     const element = buildTableContainer(tableData);
     element.querySelector('table').addEventListener('click', handleTableClick);
-    console.log(element);
+    // console.log(element);
     document.body.appendChild(element);
 }
 const buildTableContainer = function(data) {
@@ -79,9 +79,7 @@ const loadTables = function(sourceData) {
                 .then(handleJsonData)
         });
     }
-    console.log('school.astro file')
-    document.body.innerHTML += '<h4>Hello</h4>'
-
+    // console.log('school.astro file')
 }
 
 

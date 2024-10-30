@@ -1,45 +1,60 @@
 ---
 
 ---
-<!DOCTYPE html>
+
+<!doctype html>
 <html lang="en" data-theme="light">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
->
-</head>
-<body class="container">
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
+  </head>
+  <body class="container">
     <script src="../lib/fetchDb.js"></script>
     <h1><em>You</em> be the Database Engine</h1>
-    <p>Write your SQL expression in the blockquote below and see if you can manually identify the columns/cells that will be selected. A sample query is provided.</p>
-    <blockquote style="columns: 2">
-        <pre contenteditable="true">SELECT  FirstName, LastName
-FROM    Staff AS S
-    INNER JOIN Position AS P
-        ON P.PositionId = S.PositionId
-WHERE   PositionDescription LIKE '%Chair%'</pre>
-        <pre id="result" contenteditable="plaintext-only">| FirstName | LastName |
-|-----------|----------|
-| ?? | ?? |</pre>
-    </blockquote>
-    <blockquote>
+    <details open>
+      <summary>Instructions</summary>
+      <p>
+        Write your SQL expression in the blockquote below and see if you can
+        manually identify the columns/cells that will be selected. A sample
+        query is provided.
+      </p>
+      <blockquote style="columns: 2">
+        <pre
+          contenteditable="true">SELECT  FirstName, LastName
+                FROM    Staff AS S
+                INNER JOIN Position AS P
+                ON P.PositionId = S.PositionId
+                WHERE   PositionDescription LIKE '%Chair%'</pre>
+        <pre
+          id="result"
+          contenteditable="plaintext-only">| FirstName | LastName |
+                    |-----------|----------|
+                    | ?? | ?? |</pre>
+      </blockquote>
+      <blockquote>
         <details>
-            <summary>Results</summary>
-            <div class="grid">
-                <button id="renderResult">Render Result</button>
-                <button id="clearResult">Clear Result</button>
-            </div>
-            <output id="output"></output>
+          <summary>Results</summary>
+          <div class="grid">
+            <button id="renderResult">Render Result</button>
+            <button id="clearResult">Clear Result</button>
+          </div>
+          <output id="output"></output>
         </details>
-    </blockquote>
-    <img alt="ERD" src="/SchoolDb/IQSchool-ERD.png" style="float: right; padding-left: 1rem; width:40%;" />
-</body>
+      </blockquote>
+    </details>
+    <img
+      alt="ERD"
+      src="/SchoolDb/IQSchool-ERD.png"
+      style="float: right; padding-left: 1rem; width:40%;"
+    />
+  </body>
 </html>
