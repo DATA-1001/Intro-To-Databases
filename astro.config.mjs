@@ -5,6 +5,8 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://DATA-1001.github.io',
+	base: 'Intro-To-Databases',
 	integrations: [
 		starlight({
 			title: 'Docs with Tailwind',
